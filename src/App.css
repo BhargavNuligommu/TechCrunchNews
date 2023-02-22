@@ -103,8 +103,8 @@ body {
   background: linear-gradient(
     to left,
 
-    rgba(7,27,82,1)0%,
-    rgba(0,128,128,1)100%
+    rgb(195, 209, 247)0%,
+    rgba(227, 231, 191, 0.321)100%
   );
   text-align: center;
 }
@@ -114,7 +114,7 @@ body {
   margin-top: 50px;
   margin-bottom: 50px;
   font-size: 76px;
-  color: #d0eeed;
+  color: #101212;
   font-family: 'Bigelow Rules', cursive;
 
 }
