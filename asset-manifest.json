@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TechCrunchNews/static/css/main.4195dd50.css",
+    "main.js": "/TechCrunchNews/static/js/main.c894fb83.js",
+    "static/js/787.5f3e86bc.chunk.js": "/TechCrunchNews/static/js/787.5f3e86bc.chunk.js",
+    "index.html": "/TechCrunchNews/index.html",
+    "main.4195dd50.css.map": "/TechCrunchNews/static/css/main.4195dd50.css.map",
+    "main.c894fb83.js.map": "/TechCrunchNews/static/js/main.c894fb83.js.map",
+    "787.5f3e86bc.chunk.js.map": "/TechCrunchNews/static/js/787.5f3e86bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4195dd50.css",
+    "static/js/main.c894fb83.js"
+  ]
+}
